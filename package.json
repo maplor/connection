@@ -1,6 +1,6 @@
 {
   "name": "connection",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "create lines connection use SVG",
   "main": "src/index.js",
   "scripts": {
