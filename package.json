@@ -20,6 +20,11 @@
   },
   "homepage": "https://github.com/maplor/connection#readme",
   "dependencies": {
-    "d3": "^4.2.2"
+    "d3": "^3.5.17"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0"
   }
 }
